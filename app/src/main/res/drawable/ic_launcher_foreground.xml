@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Document/Note body -->
+    <path
+        android:pathData="M26,14 L82,14 L82,94 L26,94 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Folded corner -->
+    <path
+        android:pathData="M66,14 L82,14 L82,30 Z"
+        android:fillColor="#B2DFDB" />
+    <path
+        android:pathData="M66,14 L66,30 L82,30 Z"
+        android:fillColor="#80CBC4" />
+
+    <!-- Text lines on note -->
+    <path
+        android:pathData="M34,38 L58,38"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M34,46 L74,46"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M34,54 L68,54"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M34,62 L52,62"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+    <!-- SAM banner at bottom of note -->
+    <path
+        android:pathData="M26,68 L82,68 L82,94 L26,94 Z"
+        android:fillColor="#009688" />
+
+    <!-- Letter S -->
+    <path android:pathData="M35,73 h9 v2.5 h-9 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M35,75.5 h2.5 v3 h-2.5 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M35,78.5 h9 v2.5 h-9 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M41.5,81 h2.5 v3 h-2.5 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M35,84 h9 v2.5 h-9 z" android:fillColor="#FFFFFF" />
+
+    <!-- Letter A -->
+    <path android:pathData="M48,73 h9 v2.5 h-9 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M48,75.5 h2.5 v11 h-2.5 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M54.5,75.5 h2.5 v11 h-2.5 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M48,80 h9 v2.5 h-9 z" android:fillColor="#FFFFFF" />
+
+    <!-- Letter M -->
+    <path android:pathData="M61,73 h12 v2.5 h-12 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M61,75.5 h2.5 v11 h-2.5 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M65.8,75.5 h2.5 v5 h-2.5 z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M70.5,75.5 h2.5 v11 h-2.5 z" android:fillColor="#FFFFFF" />
+</vector>
